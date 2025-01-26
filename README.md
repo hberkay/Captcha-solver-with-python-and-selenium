@@ -2,7 +2,7 @@
 
 This project solves captchas on specific web pages using Selenium and takes screenshots in the same folder.
 
-Kullanılan Teknolojiler:
+Technologies Used:
   
     -Python
   
